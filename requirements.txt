@@ -1,0 +1,8 @@
+ultralytics>=8.0.0
+streamlit
+inference-sdk
+supervision
+requests
+Pillow
+matplotlib
+opencv-python
