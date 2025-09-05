@@ -50,5 +50,3 @@ A computer vision application that allows users to upload images, detect clothin
 The application uses:
 - Roboflow API for object detection
 - Segmind API for inpainting
-
-Demo API keys are included, but for production use, please obtain your own.
